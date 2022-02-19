@@ -1,0 +1,1 @@
+alert ("Bem vindo, a seguir iremos solicitar algumas informações")
